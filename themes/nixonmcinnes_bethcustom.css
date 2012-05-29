@@ -1,0 +1,32 @@
+
+			/*
+* jQuery Mobile Framework 1.0.1
+* http://jquerymobile.com
+*
+* Copyright 2011-2012 (c) jQuery Project
+* Dual licensed under the MIT or GPL Version 2 licenses.
+* http://jquery.org/license
+*
+*/
+/* Swatches */
+
+/* A
+-----------------------------------------------------------------------------------------------------------*/
+
+
+.ui-title .ui-link {
+	color: #f62b75 /*{a-body-link-color}*/;
+	font-weight: bold;
+}
+
+.ui-title .ui-link:hover {
+	color:  #2489CE  /*{a-body-link-hover}*/;
+}
+
+.ui-title .ui-link:active {
+	color:  #2489CE  /*{a-body-link-active}*/;
+}
+
+.ui-title .ui-link:visited {
+    color:  #f62b75  /*{a-body-link-visited}*/;
+}
